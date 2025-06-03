@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Masini>
+	<Masina>
+		<Marca>Dacia</Marca>
+		<Model>Logan</Model>
+		<An>2020</An>
+		<Pret>23450</Pret>
+	</Masina>
+	<Masina>
+		<Marca>BMW</Marca>
+		<Model>320i</Model>
+		<An>2019</An>
+		<Pret>40000</Pret>
+	</Masina>
+</Masini>
+
+

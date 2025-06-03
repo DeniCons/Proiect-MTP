@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Masini>
+  <Masina>
+    <Marca>Lanborghini</Marca>
+    <Model>Lux</Model>
+    <An>2025</An>
+    <Pret>45090874</Pret>
+  </Masina>
+  <Masina>
+    <Marca>Alfa Romeo</Marca>
+    <Model>145</Model>
+    <An>2000</An>
+    <Pret>3000</Pret>
+  </Masina>
+  <Masina>
+    <Marca>Ford</Marca>
+    <Model>Vechi</Model>
+    <An>1990</An>
+    <Pret>123</Pret>
+  </Masina>
+</Masini>
